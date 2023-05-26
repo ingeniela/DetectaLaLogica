@@ -1,0 +1,48 @@
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.EntityFramework.deps.json
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.EntityFramework.runtimeconfig.json
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.EntityFramework.dll
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.EntityFramework.pdb
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.Core.dll
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.Core.pdb
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.AssemblyInfo.cs
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.csproj.CopyComplete
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.dll
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\refint\TicketMicroservice.EntityFramework.dll
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.pdb
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.genruntimeconfig.cache
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\ref\TicketMicroservice.EntityFramework.dll
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.EntityFramework.deps.json
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.EntityFramework.runtimeconfig.json
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.EntityFramework.dll
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.EntityFramework.pdb
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.Core.dll
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.Core.pdb
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.AssemblyInfo.cs
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.csproj.CopyComplete
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.dll
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\refint\TicketMicroservice.EntityFramework.dll
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.pdb
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.genruntimeconfig.cache
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\ref\TicketMicroservice.EntityFramework.dll
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.dll
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\refint\TicketMicroservice.EntityFramework.dll
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.pdb
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.EntityFramework.deps.json
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.EntityFramework.runtimeconfig.json
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.EntityFramework.dll
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.EntityFramework\bin\Debug\net6.0\TicketMicroservice.EntityFramework.pdb
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.csproj.AssemblyReference.cache
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.AssemblyInfoInputs.cache
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.AssemblyInfo.cs
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.csproj.CoreCompileInputs.cache
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\TicketMicroservice.EntityFramework.genruntimeconfig.cache
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.EntityFramework\obj\Debug\net6.0\ref\TicketMicroservice.EntityFramework.dll

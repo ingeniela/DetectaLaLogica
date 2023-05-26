@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\TicketMicroservice.Web.props" />
+</Project>

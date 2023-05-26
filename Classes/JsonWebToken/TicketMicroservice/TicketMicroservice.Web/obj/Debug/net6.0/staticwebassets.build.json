@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "4M0Phs407KJE1x2Wh4GwJak2hhx92LEKZX9rv904328=",
+  "Source": "TicketMicroservice.Web",
+  "BasePath": "_content/TicketMicroservice.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

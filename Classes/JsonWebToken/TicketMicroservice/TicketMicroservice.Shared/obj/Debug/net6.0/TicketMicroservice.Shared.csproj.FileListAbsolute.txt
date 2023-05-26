@@ -1,0 +1,36 @@
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.Shared\bin\Debug\net6.0\TicketMicroservice.Shared.deps.json
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.Shared\bin\Debug\net6.0\TicketMicroservice.Shared.dll
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.Shared\bin\Debug\net6.0\TicketMicroservice.Shared.pdb
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.csproj.AssemblyReference.cache
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.AssemblyInfoInputs.cache
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.AssemblyInfo.cs
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.dll
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\refint\TicketMicroservice.Shared.dll
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.pdb
+C:\Users\Jose Barazarte\Documents\GitHub\CRUD_Daniela_Barazarte\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\ref\TicketMicroservice.Shared.dll
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.Shared\bin\Debug\net6.0\TicketMicroservice.Shared.deps.json
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.Shared\bin\Debug\net6.0\TicketMicroservice.Shared.dll
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.Shared\bin\Debug\net6.0\TicketMicroservice.Shared.pdb
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.csproj.AssemblyReference.cache
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.AssemblyInfoInputs.cache
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.AssemblyInfo.cs
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.dll
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\refint\TicketMicroservice.Shared.dll
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.pdb
+C:\Users\Jose Barazarte\Desktop\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\ref\TicketMicroservice.Shared.dll
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.Shared\bin\Debug\net6.0\TicketMicroservice.Shared.deps.json
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.Shared\bin\Debug\net6.0\TicketMicroservice.Shared.dll
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.Shared\bin\Debug\net6.0\TicketMicroservice.Shared.pdb
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.csproj.AssemblyReference.cache
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.AssemblyInfoInputs.cache
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.AssemblyInfo.cs
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.csproj.CoreCompileInputs.cache
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.dll
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\refint\TicketMicroservice.Shared.dll
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\TicketMicroservice.Shared.pdb
+C:\Users\Jose Barazarte\Desktop\Clases\Json Web Token\TicketMicroservice\TicketMicroservice.Shared\obj\Debug\net6.0\ref\TicketMicroservice.Shared.dll
