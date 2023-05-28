@@ -1,4 +1,4 @@
-# 🧠Detecta la Lógica
+# 🧠DetectaLaLógica
 
 ## 🎯 Objetivo del proyecto
 El objetivo de Detecta la Lógica es ayudar a los ingenieros de software y desarrolladores a entender los conceptos fundamentales de la ingeniería de software de una manera más intuitiva y memorable. Cada concepto se presenta con una explicación clara y concisa y se complementa con una explicación de por qué se llama así, utilizando literalmente la lógica de la palabra para poder describirlo.
@@ -8,12 +8,14 @@ Aquí hay una lista de algunos de los conceptos de ingeniería de software que y
 
 ### 📝🥽 Pruebas Unitarias
 Pruebas Unitarias se le llama "Prueba" porque funcionan para conocer el resultado de algo y "Unitaria" significa "una sola unidad", por lo que las "pruebas unitarias" funcionan para conocer el resultado de una pequeña unidad de tu sistema.
+
 📼 [Video en Youtube](https://youtu.be/znzcpBjNqK0)
 ✉️ [Blog en dev.to](https://dev.to/danielabarazarte/pruebas-unitarias-explicacion-completa-c-y-net-5294)
 💻 [Código de GitHub (C#)]()
 
 ### ◽⬜💽 Patrón de diseño de Repositorio
 Patrón de diseño Repositorio se llama así porque "Repositorio" significa un lugar para almacenar cosas y con el patrón de diseño de repositorio puedes almacenar todos aquellos métodos y funciones para conectar a la base de datos.
+
 📼 [Video en Youtube](https://youtu.be/b2tPRbQJing)
 ✉️ [Blog en dev.to](https://dev.to/danielabarazarte/patron-de-diseno-repositorio-explicacion-completa-y-simple-622)
 💻 [Código de GitHub (C#)]()
@@ -25,7 +27,6 @@ Patrón de diseño Modelo-Vista-Controlador se llama así porque divide el progr
 📼 [Video en Youtube](https://youtu.be/hFX-D368LuQ)
 ✉️ [Blog en dev.to]()
 💻 [Código de GitHub (C#)]()
-
 
 
 ### 💾♻️ Git
