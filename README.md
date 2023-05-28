@@ -1,4 +1,4 @@
-![Detecta La Lógica banner](https://imgur.com/5MB7iQu)
+![Detecta La Lógica banner](https://imgur.com/a/AcQdb9A)
 
 <h3 align="center">Detecta La Lógica</h3>
 <p align="center">
