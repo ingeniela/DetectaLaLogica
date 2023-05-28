@@ -7,22 +7,22 @@
 
 
 # Contenido
-- [Objetivo](#-Objetivo)
-- [Conceptos disponibles](#-Conceptos-disponibles)
-- [Plan para el futuro](#-Plan-para-el-futuro)
-- [Equipo](#-Equipo)
+- [🎯Objetivo](#-Objetivo)
+- [✔️Conceptos disponibles](#-Conceptos-disponibles)
+- [🌱Plan para el futuro](#-Plan-para-el-futuro)
+- [👩Equipo](#-Equipo)
 
 # 🎯 Objetivo
 El objetivo de #DetectaLaLógica es ayudar a los ingenieros de software y desarrolladores a entender conceptos fundamentales de la ingeniería de software de utilizando la lógica de la palabras utilizadas en el nombre del concepto. De esta manera se proporciona una manera más intuitiva y memorable de recordar el concepto.
 
 
 # ✔️ Conceptos disponibles
-- [📝🥽 Pruebas Unitarias](#📝🥽-Pruebas-Unitarias)
-- [◽⬜💽 Patrón de diseño de Repositorio]
-- [💃🏼👁️🎮 Patrón de diseño MVC]
-- [💾♻️ Git]
-- [🙋🏼‍♂️🌐🔐 Json Web Token]
-- [💉🤝 Inyección de Dependencias]
+- [📝🥽 Pruebas Unitarias](#️-pruebas-unitarias)
+- [◽⬜💽 Patrón de diseño de Repositorio](#-patrón-de-diseño-de-repositorio)
+- [💃🏼👁️🎮 Patrón de diseño MVC](#-patrón-de-diseño-mvc)
+- [💾♻️ Git](#-git)
+- [🙋🏼‍♂️🌐🔐 Json Web Token](#-json-web-token)
+- [💉🤝 Inyección de Dependencias](#-inyección-de-dependencias)
 
 ---
 
@@ -75,11 +75,9 @@ Inyección de Dependencias (Dependency Injection en inglés) se llama así porqu
 💻 [Código de GitHub (C#)]()
 
 # 🌱 Plan para el futuro
-
 Planeo hacer muchos más vídeos explicando los conceptos
 
 ### Contribución
-
 Si quieres contribuir con algo, reportar problemas o agregar funciones, ¡eres totalmente bienvenid@!
 
 ### Apoyo
