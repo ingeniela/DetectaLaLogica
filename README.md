@@ -7,16 +7,17 @@
 
 
 # Contenido
-- [Objetivo](#objetivo)
-- [Conceptos disponibles](#conceptos disponibles)
-- [Equipo](#equipo)
+- [Objetivo](#🎯-Objetivo)
+- [Conceptos disponibles](#✔️-Conceptos-disponibles)
+- [Plan para el futuro](#🌱-Plan-para-el-futuro)
+- [Equipo](#👩-Equipo)
 
 # 🎯 Objetivo
 El objetivo de #DetectaLaLógica es ayudar a los ingenieros de software y desarrolladores a entender conceptos fundamentales de la ingeniería de software de utilizando la lógica de la palabras utilizadas en el nombre del concepto. De esta manera se proporciona una manera más intuitiva y memorable de recordar el concepto.
 
 
 # ✔️ Conceptos disponibles
-- [📝🥽 Pruebas Unitarias](#Pruebas-Unitarias)
+- [📝🥽 Pruebas Unitarias](#📝🥽-Pruebas-Unitarias)
 - [◽⬜💽 Patrón de diseño de Repositorio]
 - [💃🏼👁️🎮 Patrón de diseño MVC]
 - [💾♻️ Git]
