@@ -1,0 +1,16 @@
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\bin\Debug\net5.0\DLL.MarioKart.exe
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\bin\Debug\net5.0\DLL.MarioKart.deps.json
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\bin\Debug\net5.0\DLL.MarioKart.runtimeconfig.json
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\bin\Debug\net5.0\DLL.MarioKart.runtimeconfig.dev.json
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\bin\Debug\net5.0\DLL.MarioKart.dll
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\bin\Debug\net5.0\DLL.MarioKart.pdb
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\obj\Debug\net5.0\DLL.MarioKart.csproj.AssemblyReference.cache
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\obj\Debug\net5.0\DLL.MarioKart.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\obj\Debug\net5.0\DLL.MarioKart.AssemblyInfoInputs.cache
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\obj\Debug\net5.0\DLL.MarioKart.AssemblyInfo.cs
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\obj\Debug\net5.0\DLL.MarioKart.csproj.CoreCompileInputs.cache
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\obj\Debug\net5.0\DLL.MarioKart.dll
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\obj\Debug\net5.0\refint\DLL.MarioKart.dll
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\obj\Debug\net5.0\DLL.MarioKart.pdb
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\obj\Debug\net5.0\DLL.MarioKart.genruntimeconfig.cache
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\ProgramacionOrientadaObjetos(POO)\DLL.MarioKart\obj\Debug\net5.0\ref\DLL.MarioKart.dll
