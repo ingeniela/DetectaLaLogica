@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\PilaresDeLaProgramacionOrientadaObjetos(POO)\\DLL.MarioKart\\DLL.MarioKart.csproj": {}
+    "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\PilaresDeLaProgramacionOrientadaObjetos(POO)\\Encapsulacion\\DLL.MarioKart\\DLL.MarioKart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\PilaresDeLaProgramacionOrientadaObjetos(POO)\\DLL.MarioKart\\DLL.MarioKart.csproj": {
+    "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\PilaresDeLaProgramacionOrientadaObjetos(POO)\\Encapsulacion\\DLL.MarioKart\\DLL.MarioKart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\PilaresDeLaProgramacionOrientadaObjetos(POO)\\DLL.MarioKart\\DLL.MarioKart.csproj",
+        "projectUniqueName": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\PilaresDeLaProgramacionOrientadaObjetos(POO)\\Encapsulacion\\DLL.MarioKart\\DLL.MarioKart.csproj",
         "projectName": "DLL.MarioKart",
-        "projectPath": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\PilaresDeLaProgramacionOrientadaObjetos(POO)\\DLL.MarioKart\\DLL.MarioKart.csproj",
+        "projectPath": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\PilaresDeLaProgramacionOrientadaObjetos(POO)\\Encapsulacion\\DLL.MarioKart\\DLL.MarioKart.csproj",
         "packagesPath": "C:\\Users\\Jose Barazarte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\PilaresDeLaProgramacionOrientadaObjetos(POO)\\DLL.MarioKart\\obj\\",
+        "outputPath": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\PilaresDeLaProgramacionOrientadaObjetos(POO)\\Encapsulacion\\DLL.MarioKart\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Jose Barazarte\\AppData\\Roaming\\NuGet\\NuGet.Config",
