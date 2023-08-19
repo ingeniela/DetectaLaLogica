@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "NqVCtYEauEQTm9FExbOWAOtZW0exykQi9AVreUB2ono=",
+  "Source": "WebApi.Cors.Example",
+  "BasePath": "_content/WebApi.Cors.Example",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

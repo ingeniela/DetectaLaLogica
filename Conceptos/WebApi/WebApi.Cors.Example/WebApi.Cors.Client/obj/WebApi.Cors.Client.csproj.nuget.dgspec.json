@@ -1,0 +1,144 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Client\\WebApi.Cors.Client.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Client\\WebApi.Cors.Client.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Client\\WebApi.Cors.Client.csproj",
+        "projectName": "WebApi.Cors.Client",
+        "projectPath": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Client\\WebApi.Cors.Client.csproj",
+        "packagesPath": "C:\\Users\\Jose Barazarte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Client\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jose Barazarte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj": {
+                "projectPath": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj",
+        "projectName": "WebApi.Cors.Example",
+        "projectPath": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj",
+        "packagesPath": "C:\\Users\\Jose Barazarte\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Jose Barazarte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.5.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

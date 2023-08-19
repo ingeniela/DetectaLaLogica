@@ -1,0 +1,42 @@
+﻿@page
+@model IndexModel
+@{
+    ViewData["Title"] = "Administrator Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Administrator</h1>
+
+</div>
+
+<h3>Server side: This are the buyers now</h3>
+<table class="table" id="serverSide">
+    <tr>
+    <tr>
+        <th><b>Id</b></th>
+        <th><b>Name</b></th>
+        <th><b>Clothing Item</b></th>
+        <th><b>Quantity</b></th>
+        <th><b>Price</b></th>
+        <th><b>Purchase Date</b></th>
+    </tr>
+    @foreach(var f in Model.Buyers)
+    {
+        <tr>
+            <td>@f.Id</td>
+            <td>@f.Name</td>
+            <td>@f.ClothingItem</td>
+            <td>@f.Quantity</td>
+            <td>$ @f.Price</td>
+            <td>@f.PurchaseDate</td>
+        </tr>
+    }
+</table>
+
+@section Scripts {
+    <script>
+        &.get("https://localhost:44335/BuyersManagement", function (data, status) {
+            alert("Date: " + data + "\nStatus: " + status);
+        });
+    </script>
+}

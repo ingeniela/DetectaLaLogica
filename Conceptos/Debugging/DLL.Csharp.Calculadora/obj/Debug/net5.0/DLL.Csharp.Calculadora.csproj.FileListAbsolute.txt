@@ -1,0 +1,16 @@
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\bin\Debug\net5.0\DLL.Csharp.Calculadora.exe
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\bin\Debug\net5.0\DLL.Csharp.Calculadora.deps.json
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\bin\Debug\net5.0\DLL.Csharp.Calculadora.runtimeconfig.json
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\bin\Debug\net5.0\DLL.Csharp.Calculadora.runtimeconfig.dev.json
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\bin\Debug\net5.0\DLL.Csharp.Calculadora.dll
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\bin\Debug\net5.0\DLL.Csharp.Calculadora.pdb
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\obj\Debug\net5.0\DLL.Csharp.Calculadora.csproj.AssemblyReference.cache
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\obj\Debug\net5.0\DLL.Csharp.Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\obj\Debug\net5.0\DLL.Csharp.Calculadora.AssemblyInfoInputs.cache
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\obj\Debug\net5.0\DLL.Csharp.Calculadora.AssemblyInfo.cs
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\obj\Debug\net5.0\DLL.Csharp.Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\obj\Debug\net5.0\DLL.Csharp.Calculadora.dll
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\obj\Debug\net5.0\refint\DLL.Csharp.Calculadora.dll
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\obj\Debug\net5.0\DLL.Csharp.Calculadora.pdb
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\obj\Debug\net5.0\DLL.Csharp.Calculadora.genruntimeconfig.cache
+C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Debugging\DLL.Csharp.Calculadora\obj\Debug\net5.0\ref\DLL.Csharp.Calculadora.dll

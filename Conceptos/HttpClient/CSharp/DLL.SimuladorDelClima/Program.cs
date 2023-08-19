@@ -1,4 +1,10 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Net;
+using System.Net.Http;
 
 namespace DLL.SimuladorDelClima
 {
@@ -6,31 +12,76 @@ namespace DLL.SimuladorDelClima
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Ingrese el código postal de su ubicación:");
-            string codigoPostal = Console.ReadLine();
+            Console.WriteLine("Clima según la localización (#DetectaLaLógica: HTTPClient)");
 
-            string url = "https://api.openweathermap.org/data/2.5/weather?zip=" + codigoPostal + ",us&appid=your_api_key&units=metric";
+            Console.WriteLine("Ingrese el país en el que está:");
+
+            string pais = Console.ReadLine().ToLower();
+
+            string urlPais = $"https://nominatim.openstreetmap.org/search?q={pais}&format=json";
 
             HttpClient httpClient = new HttpClient();
-            HttpResponseMessage response = httpClient.GetAsync(url).Result;
+            
+            HttpResponseMessage responsePais = httpClient.GetAsync(urlPais).Result;
 
-            if (response.IsSuccessStatusCode)
+            if (responsePais.IsSuccessStatusCode)
             {
-                string contenido = response.Content.ReadAsStringAsync().Result;
-                dynamic clima = JsonConvert.DeserializeObject(contenido);
+                string contenidoPais = responsePais.Content.ReadAsStringAsync().Result;
+                dynamic paisDeserialize = JsonConvert.DeserializeObject(contenidoPais);
 
-                string ciudad = clima.name;
-                double temperatura = clima.main.temp;
-                double humedad = clima.main.humidity;
+                JArray jsonArray = JArray.Parse(contenidoPais);
+                JToken result = jsonArray.FirstOrDefault();
 
-                Console.WriteLine("El clima en {0} es de {1}°C y la humedad es del {2}%.", ciudad, temperatura, humedad);
+                if (result != null)
+                {
+                    string displayName = (string)result["display_name"];
+                    double lat = (double)result["lat"];
+                    double lon = (double)result["lon"];
+                    Console.WriteLine($"{displayName} - Lat: {lat}, Lon: {lon}");
+                }
             }
             else
             {
-                Console.WriteLine("No se pudo obtener el clima para ese código postal.");
+                Console.WriteLine("No se pudo obtener la longitud y latitud para esa ubicación.");
             }
 
-            Console.ReadLine();
+            Console.WriteLine("Ingrese la latitud de su ubicación:");
+            string latitud = Console.ReadLine();
+
+            Console.WriteLine("Ingrese la longitud de su ubicación:");
+            string longitud = Console.ReadLine();
+
+            string urlClima = $"https://api.open-meteo.com/v1/forecast?latitude={latitud}&longitude={longitud}&hourly=temperature_2m&timezone=auto&forecast_days=1";
+
+            HttpResponseMessage responseClima = httpClient.GetAsync(urlClima).Result;
+
+            if (responseClima.IsSuccessStatusCode)
+            {
+                string contenidoClima = responseClima.Content.ReadAsStringAsync().Result;
+                dynamic clima = JsonConvert.DeserializeObject(contenidoClima);
+
+                string timezone = clima.timezone;
+
+                Console.WriteLine($"El clima en {timezone} va así por cada hora");
+
+                JObject jsonObject = JObject.Parse(contenidoClima);
+                JArray timeArray = (JArray)jsonObject["hourly"]["time"];
+                JArray temperatureArray = (JArray)jsonObject["hourly"]["temperature_2m"];
+
+                for (int i = 0; i < timeArray.Count; i++)
+                {
+                    string hour = ((string)timeArray[i]).Substring(11);
+                    double temperature = (double)temperatureArray[i];
+                    Console.WriteLine($"Hora {hour} = Temperatura {temperature}");
+                }         
+            }
+            else
+            {
+                Console.WriteLine("No se pudo obtener el clima para esa ubicación.");
+            }
+
+            Console.WriteLine("Presiona una tecla para salir:");
+            Console.ReadKey();
         }
     }
 }

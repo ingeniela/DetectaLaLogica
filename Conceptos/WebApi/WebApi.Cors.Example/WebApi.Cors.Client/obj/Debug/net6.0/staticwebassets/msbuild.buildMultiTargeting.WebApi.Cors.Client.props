@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\WebApi.Cors.Client.props" />
+</Project>

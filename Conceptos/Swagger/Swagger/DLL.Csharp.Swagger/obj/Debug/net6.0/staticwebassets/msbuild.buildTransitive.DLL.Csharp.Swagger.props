@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\DLL.Csharp.Swagger.props" />
+</Project>

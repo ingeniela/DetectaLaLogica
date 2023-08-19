@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "3vP40wG8gevtqcOqP0RF1ZnOdUuTw5L84woWawHC7ds=",
+  "Source": "DLL.Csharp.Swagger",
+  "BasePath": "_content/DLL.Csharp.Swagger",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
