@@ -97,3 +97,36 @@ C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\WebApi\WebApi.C
 C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.pdb
 C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.genruntimeconfig.cache
 C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\ref\WebApi.Cors.Example.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\appsettings.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.exe
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.deps.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.runtimeconfig.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\WebApi.Cors.Example.pdb
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Newtonsoft.Json.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.AssemblyInfo.cs
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.WebApi.Cors.Example.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.build.WebApi.Cors.Example.props
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.WebApi.Cors.Example.props
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.WebApi.Cors.Example.props
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\scopedcss\bundle\WebApi.Cors.Example.styles.css
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.csproj.CopyComplete
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\refint\WebApi.Cors.Example.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.pdb
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\WebApi.Cors.Example.genruntimeconfig.cache
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\WebApi\WebApi.Cors.Example\WebApi.Cors.Example\obj\Debug\net6.0\ref\WebApi.Cors.Example.dll

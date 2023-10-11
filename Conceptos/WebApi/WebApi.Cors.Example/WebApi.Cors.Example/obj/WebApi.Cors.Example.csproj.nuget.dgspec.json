@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj": {}
+    "C:\\Users\\Pc\\Documents\\GitHub\\DetectaLaLogica\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj": {
+    "C:\\Users\\Pc\\Documents\\GitHub\\DetectaLaLogica\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj",
+        "projectUniqueName": "C:\\Users\\Pc\\Documents\\GitHub\\DetectaLaLogica\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj",
         "projectName": "WebApi.Cors.Example",
-        "projectPath": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj",
-        "packagesPath": "C:\\Users\\Jose Barazarte\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\obj\\",
+        "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\DetectaLaLogica\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj",
+        "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Pc\\Documents\\GitHub\\DetectaLaLogica\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\Jose Barazarte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -68,7 +68,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }

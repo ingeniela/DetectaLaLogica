@@ -1,24 +1,31 @@
-function calculate() {
-    var number1 = parseInt(document.getElementById("number1").value);
-    var number2 = parseInt(document.getElementById("number2").value);
-    var operator = document.getElementById("operator").value;
-    
-    switch (operator) {
-      case "+":
-        result = number1 + number2;
-        break;
-      case "-":
-        result = number1 - number2;
-        break;
-      case "*":
-        result = number1 * number2;
-        break;
-      case "/":
-        result = number1 / number2;
-        break;
-    }
+console.log("Bienvenido a esta calculadora #DetectaLaLógica:")
+
+function obtener(){
+  var num1 = parseInt(document.getElementById("number1").value);
+  var num2 = parseInt(document.getElementById("number2").value);
+
+  var operator = document.getElementById("operator").value;
+
+  console.log(num1 + operator + num2);
   
-    document.getElementById("result").value = result;
+  switch(operator){
+    case "+":
+      result = num1 + num2;
+      console.log(result);
+      break;
+    case "-":
+      result = num1 - num2;
+      console.log(result);
+      break;
+    case "*":
+      result = num1 * num2;
+      console.log(result);
+      break;
+    case "/":
+      result = num1 / num2;
+      console.log(result);
+      break;
   }
-  
-  document.getElementById("equal").addEventListener("click", calculate);
+
+  document.getElementById("result").value = result;
+}

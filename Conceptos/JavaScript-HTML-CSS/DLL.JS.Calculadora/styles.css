@@ -5,29 +5,39 @@ body {
   }
   
   #calculator {
-    width: 20%;
-    padding: 10;
-    margin: 0 auto;
+    width: 50%;
+    height: 50%;
+    text-align: center;
+    padding: 10%;
+    margin: 10%;
     background-color: #eeeeee;
     border-radius: 5px;
   }
   
   input {
-    width: 50px;
+    width: 50%;
     border: 1px solid black;
     margin: 10px 0;
   }
   
   button {
-    width: 50px;
+    width: 30%;
+    border: 1px solid black;
+    margin: 10px 0;
+    background-color: grey;
+    color: white;
+  }
+  
+  #solve {
+    width: 80%;
     border: 1px solid black;
     margin: 10px 0;
     background-color: #00bfff;
     color: white;
   }
-  
+
   #result {
-    width: 100px;
+    width: 100%;
     border: 1px solid black;
     margin: 10px 0;
   }

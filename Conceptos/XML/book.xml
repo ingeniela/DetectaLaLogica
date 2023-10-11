@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<libro>
+    <titulo>Harry Potter y la piedra filosofal</titulo>
+    <autora>J.K Rowling</autora>
+    <añoPublicacion>1997</añoPublicacion>
+    <sinopsis>
+        Harry Potter, un huérfano de once años, descubre el día de su cumpleaños que no es un niño normal y que pertenece a un mundo mágico.
+    </sinopsis>
+    <premios>
+        <premio>Premio Hugo a la mejor novela</premio>
+        <premio>Premio Locus a la mejor novela de fantasia</premio>
+    </premios>
+</libro>

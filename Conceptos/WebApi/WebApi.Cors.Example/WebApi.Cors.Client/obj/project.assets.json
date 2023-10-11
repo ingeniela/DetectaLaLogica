@@ -501,19 +501,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Jose Barazarte\\.nuget\\packages\\": {}
+    "C:\\Users\\Pc\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Client\\WebApi.Cors.Client.csproj",
+      "projectUniqueName": "C:\\Users\\Pc\\Documents\\GitHub\\DetectaLaLogica\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Client\\WebApi.Cors.Client.csproj",
       "projectName": "WebApi.Cors.Client",
-      "projectPath": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Client\\WebApi.Cors.Client.csproj",
-      "packagesPath": "C:\\Users\\Jose Barazarte\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Client\\obj\\",
+      "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\DetectaLaLogica\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Client\\WebApi.Cors.Client.csproj",
+      "packagesPath": "C:\\Users\\Pc\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Pc\\Documents\\GitHub\\DetectaLaLogica\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Client\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Jose Barazarte\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Pc\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -527,8 +527,8 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj": {
-              "projectPath": "C:\\Users\\Jose Barazarte\\Documents\\GitHubPS\\DetectLogic\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj"
+            "C:\\Users\\Pc\\Documents\\GitHub\\DetectaLaLogica\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj": {
+              "projectPath": "C:\\Users\\Pc\\Documents\\GitHub\\DetectaLaLogica\\Conceptos\\WebApi\\WebApi.Cors.Example\\WebApi.Cors.Example\\WebApi.Cors.Example.csproj"
             }
           }
         }
@@ -567,7 +567,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -5,16 +5,22 @@
   </head>
   <body>
     <div id="calculator">
-      <input type="number" id="number1">
+      <h1>Calculadora #DetectaLaLogica</h1>
+      <input type="number" id="number1" name="number1">
+      <br>
       <select id="operator">
         <option value="+">+</option>
         <option value="-">-</option>
         <option value="*">*</option>
         <option value="/">/</option>
       </select>
-      <input type="number" id="number2">
+      <br>
+      <input type="number" id="number2" name="number2">
+      <br>
       <button id="equal">=</button>
-      <input type="text" id="result">
+      <input type="text" id="result" name="result">
+      <br><br>
+      <button id="solve" onclick="obtener()">Resolver</button>
     </div>
     <script src="script.js"></script>
   </body>

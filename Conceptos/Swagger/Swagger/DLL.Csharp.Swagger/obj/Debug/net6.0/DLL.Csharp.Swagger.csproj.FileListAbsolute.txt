@@ -62,3 +62,35 @@ C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Swagger\Swagger
 C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\DLL.Csharp.Swagger.pdb
 C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\DLL.Csharp.Swagger.genruntimeconfig.cache
 C:\Users\Jose Barazarte\Documents\GitHubPS\DetectLogic\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\ref\DLL.Csharp.Swagger.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\bin\Debug\net6.0\appsettings.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\bin\Debug\net6.0\DLL.Csharp.Swagger.exe
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\bin\Debug\net6.0\DLL.Csharp.Swagger.deps.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\bin\Debug\net6.0\DLL.Csharp.Swagger.runtimeconfig.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\bin\Debug\net6.0\DLL.Csharp.Swagger.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\bin\Debug\net6.0\DLL.Csharp.Swagger.pdb
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\DLL.Csharp.Swagger.csproj.AssemblyReference.cache
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\DLL.Csharp.Swagger.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\DLL.Csharp.Swagger.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\DLL.Csharp.Swagger.AssemblyInfo.cs
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\DLL.Csharp.Swagger.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\DLL.Csharp.Swagger.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\DLL.Csharp.Swagger.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\staticwebassets\msbuild.DLL.Csharp.Swagger.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\staticwebassets\msbuild.build.DLL.Csharp.Swagger.props
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.DLL.Csharp.Swagger.props
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.DLL.Csharp.Swagger.props
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\scopedcss\bundle\DLL.Csharp.Swagger.styles.css
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\DLL.Csharp.Swagger.csproj.CopyComplete
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\DLL.Csharp.Swagger.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\refint\DLL.Csharp.Swagger.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\DLL.Csharp.Swagger.pdb
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\DLL.Csharp.Swagger.genruntimeconfig.cache
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Swagger\Swagger\DLL.Csharp.Swagger\obj\Debug\net6.0\ref\DLL.Csharp.Swagger.dll
