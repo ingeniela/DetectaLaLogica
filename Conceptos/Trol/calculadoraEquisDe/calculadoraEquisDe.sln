@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34003.232
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "calculadoraEquisDe", "calculadoraEquisDe\calculadoraEquisDe.csproj", "{0E347AFD-30FB-494D-9D8A-07AAD75829AF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E347AFD-30FB-494D-9D8A-07AAD75829AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E347AFD-30FB-494D-9D8A-07AAD75829AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E347AFD-30FB-494D-9D8A-07AAD75829AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E347AFD-30FB-494D-9D8A-07AAD75829AF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C6F77A25-D274-4C7E-9A4D-7CC64000EB5F}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Trol\calculadoraEquisDe\calculadoraEquisDe\bin\Debug\net6.0\calculadoraEquisDe.exe
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Trol\calculadoraEquisDe\calculadoraEquisDe\bin\Debug\net6.0\calculadoraEquisDe.deps.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Trol\calculadoraEquisDe\calculadoraEquisDe\bin\Debug\net6.0\calculadoraEquisDe.runtimeconfig.json
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Trol\calculadoraEquisDe\calculadoraEquisDe\bin\Debug\net6.0\calculadoraEquisDe.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Trol\calculadoraEquisDe\calculadoraEquisDe\bin\Debug\net6.0\calculadoraEquisDe.pdb
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Trol\calculadoraEquisDe\calculadoraEquisDe\obj\Debug\net6.0\calculadoraEquisDe.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Trol\calculadoraEquisDe\calculadoraEquisDe\obj\Debug\net6.0\calculadoraEquisDe.AssemblyInfoInputs.cache
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Trol\calculadoraEquisDe\calculadoraEquisDe\obj\Debug\net6.0\calculadoraEquisDe.AssemblyInfo.cs
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Trol\calculadoraEquisDe\calculadoraEquisDe\obj\Debug\net6.0\calculadoraEquisDe.csproj.CoreCompileInputs.cache
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Trol\calculadoraEquisDe\calculadoraEquisDe\obj\Debug\net6.0\calculadoraEquisDe.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Trol\calculadoraEquisDe\calculadoraEquisDe\obj\Debug\net6.0\refint\calculadoraEquisDe.dll
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Trol\calculadoraEquisDe\calculadoraEquisDe\obj\Debug\net6.0\calculadoraEquisDe.pdb
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Trol\calculadoraEquisDe\calculadoraEquisDe\obj\Debug\net6.0\calculadoraEquisDe.genruntimeconfig.cache
+C:\Users\Pc\Documents\GitHub\DetectaLaLogica\Conceptos\Trol\calculadoraEquisDe\calculadoraEquisDe\obj\Debug\net6.0\ref\calculadoraEquisDe.dll
